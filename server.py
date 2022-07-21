@@ -1,6 +1,4 @@
 #https://realpython.com/python-sockets/
-# echo-server.py
-
 import socket
 
 HOST = "127.0.0.1"  # Standard loopback interface address (localhost)
